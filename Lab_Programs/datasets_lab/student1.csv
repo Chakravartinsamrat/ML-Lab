@@ -1,0 +1,5 @@
+name,srn,mark1,mark2,mark3,target,
+ajay,11,88,99,70,<=50k,
+kiran,22,98,11,71,>50k,
+peter,33,100,23,67,<=50k,
+rama,44,Nan,23,78,>50,
